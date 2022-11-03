@@ -7,7 +7,7 @@
 
     <PackageId>MoneyExtensions_RD</PackageId>
     <Version>1.0.0</Version>
-    <Licence>None</Licence>
+    <Licence>MIT</Licence>
     <Authors>Rafael Difini</Authors>
     <Company>None</Company>
     <PackageDescription>Extension to convert decimal to integer</PackageDescription>
